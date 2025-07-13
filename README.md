@@ -71,10 +71,8 @@ The model is slightly biased toward approvals, which can be fine-tuned further t
 ## 📁 Project Structure
 
 Loan_Approval_Classifier/
-├── Data/
 ├── Models/
 ├── Notebooks/
-├── main.py (optional)
 ├── requirements.txt
 └── README.md
 
